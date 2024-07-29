@@ -10,3 +10,4 @@ console.log (typeof fname1);
 const dpart1 = Number(dpart)
 console.log (typeof dpart1);
 
+console.log("saba")
