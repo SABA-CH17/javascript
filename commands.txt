@@ -1,0 +1,9 @@
+Commands and their usages:
+1)git init:-
+this command is used in both either to start a new repository or either to update an existing repository in git.
+2)git add . :-
+by using '.' in this command , you're telling Git to track all changes in the current directory.also the changes are moved to the staging area, not yet committed. This means we can review and modify the staged changes before finalizing them with a commit.
+3)git commit -m "first commit":-
+this command is used to create a new commit in our Git repository with any msg . This command is typically run after you have added changes to the repository.
+4)git push origin master:-
+this command is used to upload (push) your local repository changes to the remote repository. 
